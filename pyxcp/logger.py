@@ -25,8 +25,6 @@ __copyright__ = """
 
 import logging
 
-logging.basicConfig()
-
 
 class Logger(object):
 
